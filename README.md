@@ -1,7 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome 
+
+![Smile](https://s-media-cache-ak0.pinimg.com/originals/a9/26/0a/a9260aa6aa9cad5bc887bf47d73fcd63.jpg)
+
 
 [My Facebook Page](https://www.facebook.com/muhammadozon)
-![Smile](https://s-media-cache-ak0.pinimg.com/originals/a9/26/0a/a9260aa6aa9cad5bc887bf47d73fcd63.jpg)
+
 
 You can use the [editor on GitHub](https://github.com/kosovo21/kosovo21.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
